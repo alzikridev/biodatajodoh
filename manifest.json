@@ -30,11 +30,6 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
-        },
-        {
-            "origin": ["*"],
-            "method": ["GET"],
-            "maxAgeSeconds": 3600
         }
     ]
 }
