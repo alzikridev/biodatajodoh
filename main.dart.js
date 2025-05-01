@@ -26742,49 +26742,49 @@ n.toString
 s.n(0,n,A.aDV(a[o]))}return s},
 axl(){var s=0,r=A.y(t.z),q
 var $async$axl=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axl,r)},
 axm(){var s=0,r=A.y(t.z),q
 var $async$axm=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?phone=+6289502201020&text=Assalamu 'alaikum.\n\nKirim\n- Photo (1)\n- Nama pasangan suami istri\n- Tanggal/bulan/tahun menikah\n- Alamat (nama provinsi)")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?phone=+6285839332056&text=Assalamu 'alaikum.\n\nKirim\n- Photo (1)\n- Nama pasangan suami istri\n- Tanggal/bulan/tahun menikah\n- Alamat (nama provinsi)")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axm,r)},
 axn(){var s=0,r=A.y(t.z),q
 var $async$axn=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?phone=+6289502201020&text=Assalamu 'alaikum.\n\n'Ketik nama anda dan pasangan anda sesuai di biodata'\n\n dan 'Testimoni'")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?phone=+6285839332056&text=Assalamu 'alaikum.\n\n'Ketik nama anda dan pasangan anda sesuai di biodata'\n\n dan 'Testimoni'")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axn,r)},
 axo(){var s=0,r=A.y(t.z),q
 var $async$axo=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?phone=+6289502201020&text=Assalamu 'alaikum.\n\nSaya mau buat undangan digital, harganya berapa ya ?")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?phone=+6285839332056&text=Assalamu 'alaikum.\n\nSaya mau buat undangan digital, harganya berapa ya ?")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axo,r)},
 axp(){var s=0,r=A.y(t.z),q
 var $async$axp=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?phone=+6289502201020&text=Assalamu 'alaikum.\n\nSaya ada kendala saat melakukan penginputan data.")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?phone=+6285839332056&text=Assalamu 'alaikum.\n\nSaya ada kendala saat melakukan penginputan data.")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axp,r)},
 axk(){var s=0,r=A.y(t.z),q
 var $async$axk=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
 return A.x($async$axk,r)},
 axj(){var s=0,r=A.y(t.z),q
 var $async$axj=A.z(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.rf("https://wa.me/+6289502201020?phone=+6289502201020&text=Assalamu 'alaikum.\n\nBukti transfer saya.")
+while(true)switch(s){case 0:q=A.rf("https://wa.me/+6285839332056?phone=+6285839332056&text=Assalamu 'alaikum.\n\nBukti transfer saya.")
 q.download="Whatsapp"
 q.click()
 return A.w(null,r)}})
